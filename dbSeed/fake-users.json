@@ -1,0 +1,20 @@
+[
+  {
+    "pk": "user1",
+    "email": "user1@gmail.com",
+    "description": "",
+    "isActive": true
+  },
+  {
+    "pk": "user2",
+    "email": "user2@gmail.com",
+    "description": "",
+    "isActive": false
+  },
+  {
+    "pk": "user3",
+    "email": "user3@gmail.com",
+    "description": "",
+    "isActive": true
+  }
+]
